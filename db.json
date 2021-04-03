@@ -1,0 +1,343 @@
+{
+	"category":[
+		{
+			"id":1,
+			"name":"Tin tức"
+		},
+		{
+			"id":2,
+			"name":"Công nghệ"
+		},
+		{
+			"id":3,
+			"name":"Game"
+		}
+	],
+	"source_dev": [
+		{
+			"id":1,
+			"categoryid":1,
+			"url":"https://vnexpress.net",
+			"name":"VnExpress",
+			"img_url":"https://s1.vnecdn.net/vnexpress/restruct/i/v374/logos/114x114.png",
+			"topics" : [
+				{
+					"title":"Trang chủ",
+					"topic_link_rss":"https://vnexpress.net/rss/tin-moi-nhat.rss",
+					"image":"trangchu"
+				},
+				{
+					"title":"Thế giới",
+					"topic_link_rss":"https://vnexpress.net/rss/the-gioi.rss",
+					"image":"thegioi"
+				},
+				{
+					"title":"Thời sự",
+					"topic_link_rss":"https://vnexpress.net/rss/thoi-su.rss",
+					"image":"thoisu"
+				},
+				{
+					"title":"Kinh doanh",
+					"topic_link_rss":"https://vnexpress.net/rss/kinh-doanh.rss",
+					"image":"kinhdoanh"
+				},
+				{
+					"title":"Startup",
+					"topic_link_rss":"https://vnexpress.net/rss/startup.rss",
+					"image":"startup"
+				},
+				{
+					"title":"Giải trí",
+					"topic_link_rss":"https://vnexpress.net/rss/giai-tri.rss",
+					"image":"giaitri"
+				},
+				{
+					"title":"Thể thao",
+					"topic_link_rss":"https://vnexpress.net/rss/the-thao.rss",
+					"image":"thethao"
+				},
+				{
+					"title":"Pháp luật",
+					"topic_link_rss":"https://vnexpress.net/rss/phap-luat.rss",
+					"image":"phapluat"
+				},
+				{
+					"title":"Giáo dục",
+					"topic_link_rss":"https://vnexpress.net/rss/giao-duc.rss",
+					"image":"giaoduc"
+				},
+				{
+					"title":"Tin mới nhất",
+					"topic_link_rss":"https://vnexpress.net/rss/tin-moi-nhat.rss",
+					"image":"tinmoinhat"
+				},
+				{
+					"title":"Tin nổi bật",
+					"topic_link_rss":"https://vnexpress.net/rss/tin-noi-bat.rss",
+					"image":"tinnoibat"
+				},
+				{
+					"title":"Sức khỏe",
+					"topic_link_rss":"https://vnexpress.net/rss/suc-khoe.rss",
+					"image":"suckhoe"
+				},
+				{
+					"title":"Đời sống",
+					"topic_link_rss":"https://vnexpress.net/rss/gia-dinh.rss",
+					"image":"doisong"
+				},
+				{
+					"title":"Du lịch",
+					"topic_link_rss":"https://vnexpress.net/rss/du-lich.rss",
+					"image":"dulich"
+				},
+				{
+					"title":"Khoa học",
+					"topic_link_rss":"https://vnexpress.net/rss/khoa-hoc.rss",
+					"image":"khoahoc"
+				},
+				{
+					"title":"Số hóa",
+					"topic_link_rss":"https://vnexpress.net/rss/so-hoa.rss",
+					"image":"sohoa"
+				},
+				{
+					"title":"Xe",
+					"topic_link_rss":"https://vnexpress.net/rss/oto-xe-may.rss",
+					"image":"xe"
+				},
+				{
+					"title":"Ý kiến",
+					"topic_link_rss":"https://vnexpress.net/rss/y-kien.rss",
+					"image":"ykien"
+				},
+				{
+					"title":"Tâm sự",
+					"topic_link_rss":"https://vnexpress.net/rss/tam-su.rss",
+					"image":"tamsu"
+				},
+				{
+					"title":"Cười",
+					"topic_link_rss":"https://vnexpress.net/rss/cuoi.rss",
+					"image":"cuoi"
+				},
+				{
+					"title":"Tin xem nhiều",
+					"topic_link_rss":"https://vnexpress.net/rss/tin-xem-nhieu.rss",
+					"image":"tinxemnhieu"
+				}
+			],
+			"link_rss" : ""
+		},
+		{
+			"id":2,
+			"categoryid":1,
+			"url":"https://tuoitre.vn",
+			"name":"Tuổi trẻ Online",
+			"img_url":"https://lelocpr.com/wp-content/uploads/2017/05/dongphucbaotuoitre.jpg",
+			"topics" : [
+				{
+					"title":"Trang chủ",
+					"topic_link_rss":"https://tuoitre.vn/rss/tin-moi-nhat.rss",
+					"image":"trangchu"
+				},
+				{
+					"title":"Thế giới",
+					"topic_link_rss":"https://tuoitre.vn/rss/the-gioi.rss",
+					"image":"thegioi"
+				},
+				{
+					"title":"Thời sự",
+					"topic_link_rss":"https://tuoitre.vn/rss/thoi-su.rss",
+					"image":"thoisu"
+				},
+				{
+					"title":"Kinh doanh",
+					"topic_link_rss":"https://tuoitre.vn/rss/kinh-doanh.rss",
+					"image":"kinhdoanh"
+				},
+				{
+					"title":"Pháp luật",
+					"topic_link_rss":"https://tuoitre.vn/rss/phap-luat.rss",
+					"image":"phapluat"
+				},
+				{
+					"title":"Công nghệ",
+					"topic_link_rss":"https://tuoitre.vn/rss/nhip-song-so.rss",
+					"image":"sohoa"
+				},
+				{
+					"title":"Xe",
+					"topic_link_rss":"https://tuoitre.vn/rss/xe.rss",
+					"image":"xe"
+				},
+				{
+					"title":"Giải trí",
+					"topic_link_rss":"https://tuoitre.vn/rss/giai-tri.rssss",
+					"image":"giaitri"
+				},
+				{
+					"title":"Thể thao",
+					"topic_link_rss":"https://tuoitre.vn/rss/the-thao.rss",
+					"image":"thethao"
+				},
+				{
+					"title":"Giáo dục",
+					"topic_link_rss":"https://tuoitre.vn/rss/giao-duc.rss",
+					"image":"giaoduc"
+				},
+				{
+					"title":"Nhịp sống trẻ",
+					"topic_link_rss":"https://tuoitre.vn/rss/nhip-song-tre.rss",
+					"image":"doisong"
+				},
+				{
+					"title":"Văn hóa",
+					"topic_link_rss":"https://tuoitre.vn/rss/van-hoa.rss",
+					"image":"vanhoa"
+				},
+				{
+					"title":"Khoa học",
+					"topic_link_rss":"https://tuoitre.vn/rss/khoa-hoc.rss",
+					"image":"khoahoc"
+				},
+				{
+					"title":"Sức khỏe",
+					"topic_link_rss":"https://tuoitre.vn/rss/suc-khoe.rss",
+					"image":"suckhoe"
+				},
+				{
+					"title":"Giả thật",
+					"topic_link_rss":"https://tuoitre.vn/rss/gia-that.rss",
+					"image":"giathat"
+				},
+				{
+					"title":"Bạn đọc làm báo",
+					"topic_link_rss":"https://tuoitre.vn/rss/ban-doc-lam-bao.rss",
+					"image":"ykien"
+				},
+				{
+					"title":"Thư giãn",
+					"topic_link_rss":"https://tuoitre.vn/rss/thu-gian.rss",
+					"image":"cuoi"
+				},
+				{
+					"title":"Du lịch",
+					"topic_link_rss":"https://tuoitre.vn/rss/du-lich.rss",
+					"image":"dulich"
+				}
+			],
+			"link_rss" : ""
+		},
+		{
+			"id":3,
+			"categoryid":1,
+			"url":"https://thanhnien.vn/",
+			"name":"Thanh Niên",
+			"img_url":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPAAAADSCAMAAABD772dAAAAY1BMVEUAnNf///8AldQAmtbf8vpWtOAfpNo/rd4AntiAxOb3/P4Al9W93fDE4/MAlNQAn9ix2vAxqdxMsd9oueJ4veSHx+iRzOqe0uzW7fjp9fuo1O3v+fy53fFQsd+83fGq2O5xweXW3/B0AAAC+0lEQVR4nO3c7XKaQBSAYXZREYkLaP2MaXL/V9kljdPpNIJnoehh3/dnMm545ixIMoZkMVrLF9M0K+u6zjbz7Y98tz9UL+vjyYS2LsVHkaSjZb/A7s+XCp91riiz7e58mb2Kwe72j7tRMl7FF9j++61Pu3XpMttVMwn4m7WepxbwtQbubJZf7tzl6sG/89N25fx8x6gnAm7yo7aLfB0PuMlf5+y2WsUDbkptsb095wmCk8a8zG+cz9MEN1cxt/l2zFMFJ82Y60tUYJ8tD3GB/c5Oq6jAzcZerKMC++z8NS6w39jnuMB+yJtTXGB/z1nFBU5St40L7BcrZ3GB/ZlcRQZOXB4ZOLFvl2Kotf5Hg4OTUf8GKW948JMHeOoBnnqApx7gqQd46gGeeoAf07AfebnnUzwPBi9bEi+Wti1X/HwK8KolMxfO2JrW5Z4CbNqSgl3raoAfEmDAggADBjx6gAELAgwY8OgBBiwIMGDAowcYsCDAgAGPHmDAggADBjx6gAELAgwY8OgBBiwIMGDAo6cBXBQD/uOsAvCyOuRvhSuGQT8/OC0/X3fclXYIsgLw8vrSSz0AWRPYmPf+J7MusFlt+l7klYGNyXuK1YHNwQkX+Dt9YPPeS6wQbPZ9xBrBZtvjCS0qwWYR/u6kE9zjNxCdYHMIFisFh29qreBj6Ii1gsXHdk0teBb4ZqwWHDpiveBj2Ij1gk0dNGLF4CroBlMxeBXbhMMuW5rBQY+11AxehVynNYNNFrCnVYP3AXtaNTjkYbyqwa+xgU0pP4l1gwOuWrrBAbceusEfsYFzwJ0BBiwIMGDA3QEGLAowYEGAAQPuDjBgUYABCwIMGHB3gAGLAgxYEGDAgLsDDFgUYMCCAAMG3B1gwKIAAxYEGDDg7gADFgUYsCDAgAF3BxiwKMCABQEGDLg7wIBFAQYsCDBgwN0BBiwKMGBBgAED7g4wYFGAAQsCDBhwd+OCZd0FdsJF05ZjzIsBF/N9ZLIWd4BPtXDRLLu92F682C+MRnPiKm8bJwAAAABJRU5ErkJggg==",
+			"topics" : [
+				{
+					"title":"Trang chủ",
+					"topic_link_rss":"https://thanhnien.vn/rss/home.rss",
+					"image":"trangchu"
+				},
+				{
+					"title":"Thế giới",
+					"topic_link_rss":"https://thanhnien.vn/rss/the-gioi.rss",
+					"image":"thegioi"
+				},
+				{
+					"title":"Thời sự",
+					"topic_link_rss":"https://thanhnien.vn/rss/thoi-su.rss",
+					"image":"thoisu"
+				},
+				{
+					"title":"Kinh doanh",
+					"topic_link_rss":"https://thanhnien.vn/rss/tai-chinh-kinh-doanh.rss",
+					"image":"kinhdoanh"
+				},
+				{
+					"title":"Pháp luật",
+					"topic_link_rss":"https://thanhnien.vn/rss/thoi-su/phap-luat.rss",
+					"image":"phapluat"
+				},
+				{
+					"title":"Công nghệ",
+					"topic_link_rss":"https://thanhnien.vn/rss/cong-nghe.rss",
+					"image":"sohoa"
+				},
+				{
+					"title":"Xe",
+					"topic_link_rss":"https://xe.thanhnien.vn/rss/home.rss",
+					"image":"xe"
+				},
+				{
+					"title":"Giải trí",
+					"topic_link_rss":"https://thanhnien.vn/rss/giai-tri.rss",
+					"image":"giaitri"
+				},
+				{
+					"title":"Thể thao",
+					"topic_link_rss":"https://thethao.thanhnien.vn/rss/home.rss",
+					"image":"thethao"
+				},
+				{
+					"title":"Giáo dục",
+					"topic_link_rss":"https://thanhnien.vn/rss/giao-duc.rss",
+					"image":"giaoduc"
+				},
+				{
+					"title":"Nhịp sống trẻ",
+					"topic_link_rss":"https://thanhnien.vn/rss/gioi-tre.rss",
+					"image":"doisong"
+				},
+				{
+					"title":"Văn hóa",
+					"topic_link_rss":"https://thanhnien.vn/rss/van-hoa.rss",
+					"image":"vanhoa"
+				},
+				{
+					"title":"Sức khỏe",
+					"topic_link_rss":"https://thanhnien.vn/rss/suc-khoe.rss",
+					"image":"suckhoe"
+				},
+				{
+					"title":"Bạn cần biết",
+					"topic_link_rss":"https://thanhnien.vn/rss/ban-can-biet.rss",
+					"image":"tamsu"
+				},
+				{
+					"title":"Bạn đọc làm báo",
+					"topic_link_rss":"https://thanhnien.vn/rss/toi-viet.rss",
+					"image":"ykien"
+				},
+				{
+					"title":"Thời trang",
+					"topic_link_rss":"https://thanhnien.vn/rss/ttt.rss",
+					"image":"thoitrang"
+				},
+				{
+					"title":"Game",
+					"topic_link_rss":"https://game.thanhnien.vn/rss/home.rss",
+					"image":"game"
+				},
+				{
+					"title":"Du lịch",
+					"topic_link_rss":"https://thanhnien.vn/rss/du-lich.rss",
+					"image":"dulich"
+				},
+				{
+					"title":"Video",
+					"topic_link_rss":"https://video.thanhnien.vn/rss/home.rss",
+					"image":"video"
+				},
+				{
+					"title":"Đời sống",
+					"topic_link_rss":"https://thanhnien.vn/rss/doi-song.rss",
+					"image":"doisong"
+				}
+			],
+			"link_rss" : ""
+		}
+	]    
+}
