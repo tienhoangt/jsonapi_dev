@@ -338,6 +338,106 @@
 				}
 			],
 			"link_rss" : ""
+		},
+		{
+			"id":4,
+			"categoryid":1,
+			"url":"https://nld.com.vn/",
+			"name":"Người Lao Động",
+			"img_url":"https://static.mediacdn.vn/nld/web_images/nld192.png",
+			"topics" : [
+				{
+					"title":"Trang chủ",
+					"topic_link_rss":"https://nld.com.vn/tin-moi-nhat.rss",
+					"image":"trangchu"
+				},
+				{
+					"title":"Thế giới",
+					"topic_link_rss":"https://nld.com.vn/thoi-su-quoc-te.rss",
+					"image":"thegioi"
+				},
+				{
+					"title":"Thời sự",
+					"topic_link_rss":"https://nld.com.vn/thoi-su.rss",
+					"image":"thoisu"
+				},
+				{
+					"title":"Kinh doanh",
+					"topic_link_rss":"https://nld.com.vn/kinh-te.rss",
+					"image":"kinhdoanh"
+				},
+				{
+					"title":"Pháp luật",
+					"topic_link_rss":"https://nld.com.vn/phap-luat.rss",
+					"image":"phapluat"
+				},
+				{
+					"title":"Công nghệ",
+					"topic_link_rss":"https://nld.com.vn/cong-nghe.rss",
+					"image":"sohoa"
+				},
+				{
+					"title":"Giải trí",
+					"topic_link_rss":"https://nld.com.vn/giai-tri.rss",
+					"image":"giaitri"
+				},
+				{
+					"title":"Thể thao",
+					"topic_link_rss":"https://nld.com.vn/the-thao.rss",
+					"image":"thethao"
+				},
+				{
+					"title":"Giáo dục",
+					"topic_link_rss":"https://nld.com.vn/giao-duc-khoa-hoc.rss",
+					"image":"giaoduc"
+				},
+				{
+					"title":"Tin độc quyền",
+					"topic_link_rss":"https://nld.com.vn/tin-doc-quyen.rss",
+					"image":"doisong"
+				},
+				{
+					"title":"Sức khỏe",
+					"topic_link_rss":"https://nld.com.vn/suc-khoe.rss",
+					"image":"suckhoe"
+				},
+				{
+					"title":"Nói thẳng",
+					"topic_link_rss":"https://nld.com.vn/noi-thang.rss",
+					"image":"tamsu"
+				},
+				{
+					"title":"Bạn đọc làm báo",
+					"topic_link_rss":"https://nld.com.vn/ban-doc.rss",
+					"image":"ykien"
+				},
+				{
+					"title":"Phụ nữ",
+					"topic_link_rss":"https://nld.com.vn/chuyen-trang-phu-nu.rss",
+					"image":"thoitrang"
+				},
+				{
+					"title":"Địa ốc",
+					"topic_link_rss":"https://nld.com.vn/dia-oc.rss",
+					"image":"diaoc"
+				},
+				{
+					"title":"Điểm đến",
+					"topic_link_rss":"https://nld.com.vn/diem-den-hap-dan.rss",
+					"image":"dulich"
+				},
+				{
+					"title":"Thị trường",
+					"topic_link_rss":"https://nld.com.vn/thi-truong.rss",
+					"image":"thitruong"
+				},
+				{
+					"title":"Lý tưởng sống",
+					"topic_link_rss":"https://nld.com.vn/ly-tuong-song.rss",
+					"image":"doisong"
+				}
+			],
+			"link_rss" : ""
 		}
 	]    
 }
